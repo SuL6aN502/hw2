@@ -1,4 +1,10 @@
-
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    
+}
 img{
     width: 100%;
     border-bottom-left-radius: 10px;
@@ -19,7 +25,6 @@ img{
     border-radius: 10px;
     text-align: center;
     color:aliceblue;
-    line-height: 2.5;
 }
 .d3{    width: 20vw;
     height: 50vh;
@@ -27,13 +32,11 @@ img{
     border-radius: 10px;
     text-align: center;
     color:aliceblue;
-    line-height: 2.5;
 }
 .d4{    width: 20vw;
     height: 50vh;
     background-color: #222;
     border-radius: 10px;
     text-align: center;
-    color:aliceblue;
-    line-height: 2.5;
+    color:#f0f8ff;
 }
